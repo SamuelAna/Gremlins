@@ -1,0 +1,46 @@
+/* Black #0b0c10
+Charcoal #1F2833
+Grey #c5c6c7
+Teal #66fcf1
+Aqua #45a29e */
+body {
+    background-color: #c5c6c7;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #45a29e
+  }
+
+h1 {
+    /* margin-left: 20%;
+    margin-right: 20%; */
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 4vw;
+    color: #66fcf1
+}
+h2 {
+    /* margin-left: 20%;
+    margin-right: 20%;*/
+    margin-bottom: 0;
+    margin-top: 0; 
+    font-size: 3vw;
+    color: #66fcf1
+}
+div {
+    margin: auto;
+    background-color: #1F2833; 
+    width: 65em;
+    padding: 2em;
+    border-radius: 1vw;
+}
+
+.funfacts{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+.author{
+    background-color: #c5c6c7;
+    color: #1F2833;
+    padding-left: 0;
+    
+}
